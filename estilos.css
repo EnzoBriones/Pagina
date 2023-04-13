@@ -54,8 +54,6 @@ h1 {
     text-shadow: 0.5em, 0.5em , #333;
 }
 
-/* Fin Header */
-
 .subtitulo {
     display: flex;
     flex-direction: row;
@@ -63,6 +61,8 @@ h1 {
     font-family: var(--fuenteParrafos);
     color: aliceblue;
 }
+
+/* Fin Header */
 
 /* Principal */
 
